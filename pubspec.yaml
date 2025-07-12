@@ -1,0 +1,14 @@
+name: birthday_card
+
+environment:
+  sdk: '^3.8.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  lottie: ^2.7.0
+
+flutter:
+  assets:
+    - assets/gift_opening.json
+    - assets/confetti.json
